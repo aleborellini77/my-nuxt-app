@@ -2,17 +2,19 @@
 
 ## Setup
 
-Start Nuxt application
+Start Nuxt application by using Nuxt CLI (Nuxi)
 
 ```
 npx nuxi init nuxt-app 
 ```
-or if in current directory
+or if you want to initialize in current directory
 ```
 npx nuxi init ./
 ```
 
 ## Docker
+
+Copy instructions from docker-compose.yml and Dockerfile and the run below command
 
 ```
 docker-compose up
